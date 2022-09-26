@@ -1,4 +1,4 @@
-#Baekjoon Question 2525
+# Baekjoon Question 2525
 
 c_hour, c_minute = map(int, input().split())
 time = int(input())

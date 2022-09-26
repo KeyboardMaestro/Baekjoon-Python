@@ -1,4 +1,4 @@
-#Baekjoon Question 2884
+# Baekjoon Question 2884
 try:
     hour, minute = map(int, input().split())
     if minute >= 45:
