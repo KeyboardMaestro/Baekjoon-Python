@@ -1,4 +1,4 @@
-# BaekJoon Question 14681
+#BaekJoon Question 14681
 try:
     x_value = int(input())
     y_value = int(input())
